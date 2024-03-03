@@ -23,8 +23,8 @@ This is a solution to the [Equalizer Landing Page component challenge on Fronten
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/Article-Preview-Component)
-- Live Site URL: [Add live site URL here](https://article-preview-component-green-kappa.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Equalizer-landing-page)
+- Live Site URL: [Add live site URL here](https://equalizer-landing-page-lac.vercel.app)
 
 ## My process
 
