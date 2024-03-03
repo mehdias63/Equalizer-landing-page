@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 
 function App() {
   return (
-    <main className="bg-[url(/images/bg-main-mobile.png)] bg-cover bg-no-repeat min-h-screen md:bg-[url(/images/bg-main-tablet.png)] lg:bg-[url(/images/bg-main-desktop.png)] font-ibm relative max-w-[90rem] lg:px-[10rem]">
+    <main className="bg-[url(/images/bg-main-mobile.png)] min-h-screen md:bg-[url(/images/bg-main-tablet.png)] lg:bg-[url(/images/bg-main-desktop.png)] font-ibm relative max-w-[90rem] lg:px-[10rem]">
       <img
         src="images/bg-pattern-1.svg"
         className="hidden sm:block absolute sm:right-[-2rem] lg:right-0 max-w-[12.5rem] lg:max-w-[16rem]"
