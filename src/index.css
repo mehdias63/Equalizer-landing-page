@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .a-link {
+    @apply cursor-pointer hover:text-orange;
+  }
+  .btn {
+    @apply flex items-center justify-center h-[3.85rem] gap-2 text-lg font-bold leading-8 w-full rounded-xl tracking-[-0.01125rem];
+  }
+}
